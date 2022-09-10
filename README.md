@@ -1,2 +1,2 @@
-# graduation_project
-thesis on the course GB developer
+# My graduation_project
+This is a thesis on the GeekBrains "Developer" course.
