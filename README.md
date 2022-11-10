@@ -14,4 +14,4 @@ This is a thesis on the GeekBrains "Developer" course.
 Возможность использовать HTML| есть
 
 |Таблица | Новая|
-Заголовки | #
+  Заголовки | #
